@@ -1,0 +1,2 @@
+D:\Documents\GitHub\Java\ObjectDetection\openCV-4.10\samples\tutorial-4-opencl\jni\CLprocessor.hpp
+D:\Documents\GitHub\Java\ObjectDetection\openCV-4.10\samples\tutorial-4-opencl\jni\common.hpp

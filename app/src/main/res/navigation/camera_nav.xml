@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/camera_nav"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/CameraFragment">
+
+    <fragment
+        android:id="@+id/CameraFragment"
+        android:name="com.amalik18.objectdetection.CameraFragment"
+        tools:layout="@layout/camera_view"
+        android:label="@string/camera_fragment_label">
+
+        <action
+            android:id="@+id/action_CameraFragment_to_Camera"
+            app:destination="@+id/"
+    </fragment>
+
+
+
+</navigation>

@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Documents\GitHub\Java\ObjectDetection\openCV-4.10\sdk\.cxx\Debug\2n18423z\x86_64'
+ninja: no work to do.

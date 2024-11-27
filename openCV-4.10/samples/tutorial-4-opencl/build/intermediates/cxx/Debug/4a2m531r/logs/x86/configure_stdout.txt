@@ -1,0 +1,12 @@
+-- The CXX compiler identification is Clang 18.0.1
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Users/Ali/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Using OpenCV from local SDK
+-- ANDROID_ABI=x86
+-- Found OpenCV: D:/Documents/GitHub/Java/ObjectDetection/openCV-4.10 (found version "4.10.0") found components: opencv_java 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Documents/GitHub/Java/ObjectDetection/openCV-4.10/samples/tutorial-4-opencl/.cxx/Debug/4a2m531r/x86

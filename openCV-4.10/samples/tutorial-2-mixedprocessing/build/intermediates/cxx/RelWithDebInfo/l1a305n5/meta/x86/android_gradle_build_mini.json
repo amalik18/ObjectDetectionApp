@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "D:\\Documents\\GitHub\\Java\\ObjectDetection\\openCV-4.10\\samples\\tutorial-2-mixedprocessing\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Ali\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Documents\\GitHub\\Java\\ObjectDetection\\openCV-4.10\\samples\\tutorial-2-mixedprocessing\\.cxx\\RelWithDebInfo\\l1a305n5\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Ali\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Documents\\GitHub\\Java\\ObjectDetection\\openCV-4.10\\samples\\tutorial-2-mixedprocessing\\.cxx\\RelWithDebInfo\\l1a305n5\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mixed_sample::@6890427a1f51a3e7e1df": {
+      "artifactName": "mixed_sample",
+      "abi": "x86",
+      "output": "D:\\Documents\\GitHub\\Java\\ObjectDetection\\openCV-4.10\\samples\\tutorial-2-mixedprocessing\\build\\intermediates\\cxx\\RelWithDebInfo\\l1a305n5\\obj\\x86\\libmixed_sample.so",
+      "runtimeFiles": [
+        "D:\\Documents\\GitHub\\Java\\ObjectDetection\\openCV-4.10\\sdk\\native\\libs\\x86\\libopencv_java4.so"
+      ]
+    }
+  }
+}

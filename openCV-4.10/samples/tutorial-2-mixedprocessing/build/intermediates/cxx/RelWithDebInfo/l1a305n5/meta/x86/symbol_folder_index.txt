@@ -1,0 +1,1 @@
+D:\Documents\GitHub\Java\ObjectDetection\openCV-4.10\samples\tutorial-2-mixedprocessing\build\intermediates\cxx\RelWithDebInfo\l1a305n5\obj\x86
